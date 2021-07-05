@@ -10,27 +10,62 @@ img{
     vertical-align: middle;
 }
 /* =====================First Header section css starts ==============================*/
-.pt-80{
-    padding-top: 80px;
+.pt-100{
+    padding-top: 100px;
 }
 .flex-container{
     display: flex;
-    margin: 0 auto;
+}
+section{
+    margin-bottom: 100px;
 }
 .half-width{
     width: 40%;
     margin: 0 5%;
-    text-align: center;
+    text-align: left;
 }
 .main-header{
-    font-size: 40px;
+    font-size: 85px;
     color: gray;
 }
 .sub-header{
-    font: 30px;
+    font-size: 50px;
     color: gray;
 }
 .main-header span{
     color: orange;
 }
-/* =====================First Header section css Ends ==============================*/
+.half-width img{
+    width: 100%;
+}
+.para{
+    font-size: 30px;
+    color: gray;
+    text-align: left;
+}
+.first-button{
+    display: inline-block;
+    padding:20px 30px;
+    border-radius: 30px;
+    background-image: linear-gradient(orange, tomato );
+    color: #fff;
+    font-size: 20px;
+    margin-top: 20px;
+}
+/* =====================Ends ==============================*/
+
+/* =====================About Me section css starts ==============================*/
+.about-bg{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* =====================ends ==============================*/
+
+/* =====================My Recipies section css starts ==============================*/
+
+
+
+
+
+/* ===================== ends ==============================*/
