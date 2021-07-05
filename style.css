@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 a{
     text-decoration: none;
@@ -63,9 +63,49 @@ section{
 /* =====================ends ==============================*/
 
 /* =====================My Recipies section css starts ==============================*/
+.center{
+    text-align: center;
+}
+.padding{
+    padding: 10px 300px;
+}
+.recipie-div{
+    width: 26.66%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px gray;
+    margin: 0 3.33%;
+    padding: 20px 20px;
+}
+.recipie-div img{
+    width: 100%;
 
-
-
-
-
+    border-radius: 15px;
+}
+.recipie-div h3{
+    font-size: 25px;
+    color: black;
+}
+.recipie-div p{
+    font-size: 15px;
+}
+/* ===================== ends ==============================*/
+.follower{
+    width: 26.66%;
+    margin: 0 3.33%;
+}
+/* =====================folower section css starts ==============================*/
+.shadow{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    margin: 0 3.3%;
+}
+.follower h3{
+    font-size: 25px;
+    color: black;
+}
+.follower p{
+    font-size: 15px;
+    color: black;
+    padding-bottom: 10px;
+}
 /* ===================== ends ==============================*/
