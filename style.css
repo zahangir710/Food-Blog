@@ -109,3 +109,35 @@ section{
     padding-bottom: 10px;
 }
 /* ===================== ends ==============================*/
+/* =====================Subscribe part css starts ==============================*/
+.subscribe-bg{
+    background-image: url(images/food/Project\ Cover4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+.full-width{
+    padding: 50px 0px;
+}
+.full-width form input{
+    padding: 20px 20px;
+    border-radius: 5px;
+    width: 30%;
+    margin: 10px 0;
+    font-size: 20px;
+    border: none;
+}
+.color{
+    color: #fff;
+}
+/* ===================== ends ==============================*/
+
+/* =====================Food blog part css starts ==============================*/
+.sub-header span{
+    color: orange;
+}
+.blog-div{
+    background-color: black;
+    padding: 50px;
+}
+/* ===================== ends ==============================*/
